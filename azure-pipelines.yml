@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '0c342af5-b284-4eb5-8fba-b219539bb1ff'
   
   # Web app name
-  webAppName: 'bpdts_herokuapp'
+  webAppName: 'bpdts-herokuapp'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
